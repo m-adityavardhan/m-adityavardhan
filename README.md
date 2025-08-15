@@ -45,9 +45,10 @@ Software engineer who loves building useful things, learning in public, and shar
 
 
 ## 🗂️ Quick Filters
-- POCs: [`topic:poc`](https://github.com/Learnings-poc?tab=repositories&q=topic%3Apoc)
-- Learnings: [`topic:learning`](https://github.com/Learnings-poc?tab=repositories&q=topic%3Alearning)
-- Misc: [`topic:misc`](https://github.com/m-adityavardhan-misc?tab=repositories&q=topic%3Amisc)
+- POCs: [`topic:poc`](https://github.com/search?q=topic%3Apoc+org%3ALearnings-poc&type=Repositories)
+- Learnings: [`topic:learning`](https://github.com/search?q=topic%3Alearning+org%3ALearnings-poc&type=repositories)
+- Misc: [`topic:misc`](https://github.com/search?q=topic%3Amisc+org%3Am-adityavardhan-misc&type=Repositories)
+- Projects: [`topic:project`](https://github.com/search?q=topic%3Aproject+user%3Am-adityavardhan&type=Repositories)
 
 ---
 
