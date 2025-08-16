@@ -4,14 +4,6 @@ Software engineer who loves building useful things, learning in public, and shar
 
 ---
 
-## 🔥 Featured
-- **[Homomorphic-Encryption-code-generation-evaluation-with-Gpt-3.5-and-deepseek](https://github.com/m-adityavardhan/Homomorphic-Encryption-code-generation-evaluation-with-Gpt-3.5-and-deepseek)** – exploration & evaluation work
-- **[portfolio](https://github.com/m-adityavardhan/portfolio)** – personal website
-- **[branch_predictor](https://github.com/m-adityavardhan/branch_predictor)** – branch prediction simulator
-- **[cache_simulator](https://github.com/m-adityavardhan/cache_simulator)** – cache & memory hierarchy simulator
-
----
-
 ## 🧰 Projects
 
 * **[branch\_predictor](https://github.com/m-adityavardhan/branch_predictor)** – CPU branch predictor simulator with four strategies.
